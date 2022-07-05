@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'todos',
     'rest_framework',
     'apis',
+    'apis2',
 ]
 
 REST_FRAMEWORK = {
